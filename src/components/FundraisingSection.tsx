@@ -1,11 +1,12 @@
 import AnimatedSection from "./AnimatedSection";
 
 const funds = [
-  { label: "Produit", pct: "30%" },
-  { label: "Infrastructure IA", pct: "25%" },
-  { label: "Croissance", pct: "25%" },
-  { label: "Partenariats", pct: "10%" },
-  { label: "Embauche", pct: "10%" },
+  { label: "Marketing", pct: "40%" },
+  { label: "Infrastructure IA", pct: "20%" },
+  { label: "Croissance", pct: "20%" },
+    { label: "Embauche", pct: "10%" },
+  { label: "Partenariats", pct: "5%" },
+  { label: "trésorerie", pct: "5%" },
 ];
 
 const FundraisingSection = () => (
@@ -15,7 +16,7 @@ const FundraisingSection = () => (
         <div className="glass-card rounded-2xl p-8 md:p-12 lg:p-16 glow-border text-center">
           <p className="text-primary text-sm font-medium tracking-wider uppercase mb-3">Levée de Fonds</p>
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-display font-bold mb-4">
-            Levée de <span className="gradient-text-accent">$500K</span>
+            Levée de <span className="gradient-text-accent">$150K</span>
           </h2>
           <p className="text-muted-foreground text-lg leading-relaxed max-w-2xl mx-auto mb-10">
             Nous levons notre prochain tour pour écheller le développement des produits, étendre les capacités de l'IA et croître dans de nouveaux marchés.

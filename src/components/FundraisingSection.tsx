@@ -22,7 +22,7 @@ const FundraisingSection = () => (
             Nous levons notre prochain tour pour écheller le développement des produits, étendre les capacités de l'IA et croître dans de nouveaux marchés.
           </p>
 
-          <div className="grid grid-cols-2 sm:grid-cols-5 gap-4 mb-10 max-w-3xl mx-auto">
+          <div className="grid grid-cols-2 sm:grid-cols-6 gap-4 mb-10 max-w-3xl mx-auto">
             {funds.map((f) => (
               <div key={f.label} className="bg-secondary/50 rounded-lg p-4">
                 <p className="text-xl font-display font-bold text-foreground mb-1">{f.pct}</p>

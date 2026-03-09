@@ -29,7 +29,7 @@ const products = [
             {t}
           </div>
         ))}
-        <div className="mt-3 px-3 py-1.5 rounded bg-primary/10 text-primary text-xs font-medium inline-block">~40 pages · Export PDF</div>
+        <div className="mt-3 px-3 py-1.5 rounded bg-primary/10 text-primary text-xs font-medium inline-block">~40 pages · Exporter PDF</div>
       </div>
     ),
   },

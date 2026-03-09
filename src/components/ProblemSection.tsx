@@ -15,7 +15,7 @@ const problems = [
   {
     icon: DollarSign,
     title: "Pas d'Intelligence de Qualité Décisionnelle",
-    desc: "Les agriculteurs et les investisseurs manquent d'outils accessibles et powered par l'IA pour évaluer le potentiel des terres avant d'engager du capital.",
+    desc: "Les agriculteurs et les investisseurs manquent d'outils accessibles et alimentés par l'IA pour évaluer le potentiel des terres avant d'engager du capital.",
   },
   {
     icon: Layers,

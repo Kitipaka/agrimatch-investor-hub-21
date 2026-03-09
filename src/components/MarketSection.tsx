@@ -1,9 +1,9 @@
 import AnimatedSection from "./AnimatedSection";
 
 const markets = [
-  { label: "TAM", value: "$1.7T", desc: "Marché Adressable Total — Intelligence et analyse des terres agricoles mondialement." },
-  { label: "SAM", value: "$120B", desc: "Marché Adressable Utile — Plateformes de technologie agricole au Moyen-Orient et en Afrique." },
-  { label: "SOM", value: "$3B", desc: "Marché Obtainable Utile — Maroc et marchés d'expansion initiale." },
+  { label: "TAM", value: "$1,7T", desc: "Marché Adressable Total — Intelligence et analyse des terres agricoles mondialement." },
+  { label: "SAM", value: "$120Md", desc: "Marché Adressable Utile — Plateformes de technologie agricole au Moyen-Orient et en Afrique." },
+  { label: "SOM", value: "$3Md", desc: "Marché Obtainable Utile — Maroc et marchés d'expansion initiale." },
 ];
 
 const MarketSection = () => (

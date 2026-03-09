@@ -2,7 +2,7 @@ import { Zap, Droplets, Brain, MapPin } from "lucide-react";
 import AnimatedSection from "./AnimatedSection";
 
 const reasons = [
-  { icon: Zap, title: "L'agriculture se numérialise", desc: "L'industrie agricole de 5 billions de dollars subit une transformation numérique rapide, créant des opportunités massives pour les plateformes axées sur l'IA." },
+  { icon: Zap, title: "L'agriculture se numérialise", desc: "L'industrie agricole de 5 milliards de dollars subit une transformation numérique rapide, créant des opportunités massives pour les plateformes axées sur l'IA." },
   { icon: Droplets, title: "Les décisions concernant les terres et l'eau sont plus importantes", desc: "Le changement climatique et la rareté des ressources rendent l'évaluation des terres pilotée par les données plus critique — et plus précieuse — que jamais." },
   { icon: Brain, title: "L'IA peut compresser la recherche 100x", desc: "Les grands modèles de langage et l'IA géospatiale permettent maintenant une analyse qui nécessitait auparavant des mois de conseil d'experts." },
   { icon: MapPin, title: "Le Maroc est le tremplin parfait", desc: "Un secteur agricole solide, un écosystème technologique en croissance et la proximité avec l'Europe et l'Afrique font du Maroc un marché de lancement idéal." },

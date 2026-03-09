@@ -26,7 +26,7 @@ const models = [
       "Analyse unique des terres",
       "Rapport de 40 pages",
       "Suivi par chatbot IA",
-      "Export PDF",
+      "Exporter PDF",
     ],
   },
   {
@@ -45,7 +45,7 @@ const models = [
   {
     icon: Zap,
     title: "Publicités & IoT (Futur)",
-    price: "TBD",
+    price: "À confirmer",
     period: "/campagne",
     desc: "Plateforme publicitaire pour fournisseurs agricoles et intégration future de solutions IoT pour la collecte de données agricoles.",
     features: [

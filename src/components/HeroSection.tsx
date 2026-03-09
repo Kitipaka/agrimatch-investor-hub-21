@@ -17,7 +17,7 @@ const HeroSection = () => (
         >
           <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full border border-primary/20 bg-primary/5 text-primary text-xs font-medium mb-6">
             <span className="w-1.5 h-1.5 rounded-full bg-primary animate-pulse-glow" />
-            Intelligence Agricole Powered par l'IA
+            Intelligence Agricole Alimentée par l'IA
           </div>
 
           <h1 className="text-4xl sm:text-5xl lg:text-6xl xl:text-7xl font-display font-bold leading-[1.08] tracking-tight mb-6">
